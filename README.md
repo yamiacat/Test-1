@@ -1,7 +1,8 @@
 # Test
 Markdown syntax bug
 1. a
-2. b <br>
+2. b 
+<br>
 hoge<br>
 hhoge<br>
 ## From Here
