@@ -2,7 +2,7 @@
 Markdown syntax bug
 1. a
 2. b
-<br>
+ <br>
 hoge<br>
 hhoge<br>
 ## From Here
